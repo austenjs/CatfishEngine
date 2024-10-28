@@ -247,5 +247,5 @@ def main(BOARD):
             status = False
 
 board = chess.Board()
-# main_one_agent(board, min_max2)
-main(board)
+main_one_agent(board, min_max2)
+# main(board)
